@@ -1,5 +1,5 @@
 <script lang="ts">
-    var number = 10
+    var number = 1
 </script>
 
 <main>Svelte Starter Template {number}</main>
